@@ -7,6 +7,7 @@
 *Once you have all the files downloaded, move your mouse as desired.*
 
 ## Roadmap of future improvements
+> I should try different shape of eyes on css. 
 
 ## License information
 [MIT license](https://choosealicense.com/licenses/mit/)
