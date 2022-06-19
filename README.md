@@ -7,9 +7,8 @@
 *Once you have all the files downloaded, move your mouse as desired.*
 
 ## Roadmap of future improvements
-> I should try different shape of eyes on css. 
+> I would change different background colors and eye-shapes once get comfortable editting css files.
 
 ## License information
 [MIT license](https://choosealicense.com/licenses/mit/)
-
 
