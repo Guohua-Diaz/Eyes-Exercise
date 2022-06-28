@@ -14,7 +14,7 @@
 
 ![eye-movement](https://user-images.githubusercontent.com/102787056/174466250-654ab608-fe04-401b-b5e3-8502a5512fee.jpg)
 
-## Instructions
+## How to run
      1. Clone the repo (remember which folder the repo was cloned)
      2. Open Chrome.
      3. On Chrome, click File->Open File
